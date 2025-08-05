@@ -2,7 +2,13 @@
 
 Projeto em Python para gerar dados simulados de leads brasileiros, incluindo CPF válido, telefone regionalizado, endereço, data de nascimento e nome validado. Ideal para testes, demos, ou simplesmente para você convencer seu chefe que já tem "base" suficiente.
 
----
+## ⚠️ Aviso Legal Importante! ⚠️
+Este projeto gera dados inteiramente fictícios, criados aleatoriamente com finalidades exclusivamente educacionais e de teste. 
+
+Nenhum dado aqui foi coletado de indivíduos reais.
+Embora o gerador utilize combinações aleatórias, pode haver coincidência involuntária com dados reais (como nomes, CPFs ou endereços). Tal coincidência é puramente acidental e não intencional.
+
+**Nota Legal:** Este projeto é distribuído sob a Licença MIT e não oferece nenhuma garantia. O autor não se responsabiliza por qualquer uso indevido das informações geradas, incluindo, mas não se limitando a, fraudes, estelionato, violação de privacidade ou qualquer outro uso ilegal ou antiético. Use por sua conta e risco.
 
 ## Funcionalidades
 
