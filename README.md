@@ -73,7 +73,11 @@ Embora o gerador utilize combinações aleatórias, pode haver coincidência inv
 
 
 ## Como usar
-Para usar basta ir no bloco superior em configurações de uso e configurar esses dois parâmetros e rodar do código
+
+Primeiro será necessário baixar o dataset oficial de ceps, este está no repositório do txt dadoscepsbrasil
+depois baixar e salvar no repositório como dadoscepsbrasil.json o resto o código faz por si
+
+Para rodar basta ir no bloco superior em configurações de uso e configurar esses dois parâmetros e rodar do código
 #configurações iniciais
 num_leads = 256 - Configura a quantidade de leads geradas
 id_inicial = 1056 - Configura o id inicial de sistema para não parecer que é algo consolidado

@@ -1,0 +1,137 @@
+[
+  {
+    "uf": "AC",
+    "principais": ["68"],
+    "alternativos": ["69", "92"]
+  },
+  {
+    "uf": "AL",
+    "principais": ["82"],
+    "alternativos": ["79", "81", "83"]
+  },
+  {
+    "uf": "AP",
+    "principais": ["96"],
+    "alternativos": ["91", "92"]
+  },
+  {
+    "uf": "AM",
+    "principais": ["92", "97"],
+    "alternativos": ["68", "96"]
+  },
+  {
+    "uf": "BA",
+    "principais": ["71", "73", "74", "75", "77"],
+    "alternativos": ["79", "81", "85", "83"]
+  },
+  {
+    "uf": "CE",
+    "principais": ["85", "88"],
+    "alternativos": ["84", "86", "89"]
+  },
+  {
+    "uf": "DF",
+    "principais": ["61"],
+    "alternativos": ["62", "64", "31"]
+  },
+  {
+    "uf": "ES",
+    "principais": ["27", "28"],
+    "alternativos": ["31", "21", "24"]
+  },
+  {
+    "uf": "GO",
+    "principais": ["62", "64"],
+    "alternativos": ["61", "66", "65"]
+  },
+  {
+    "uf": "MA",
+    "principais": ["98", "99"],
+    "alternativos": ["86", "89", "91"]
+  },
+  {
+    "uf": "MT",
+    "principais": ["65", "66"],
+    "alternativos": ["64", "67", "62"]
+  },
+  {
+    "uf": "MS",
+    "principais": ["67"],
+    "alternativos": ["65", "66", "64"]
+  },
+  {
+    "uf": "MG",
+    "principais": ["31", "32", "33", "34", "35", "37", "38"],
+    "alternativos": ["11", "27", "62", "61"]
+  },
+  {
+    "uf": "PA",
+    "principais": ["91", "93", "94"],
+    "alternativos": ["92", "96", "98"]
+  },
+  {
+    "uf": "PB",
+    "principais": ["83"],
+    "alternativos": ["84", "81", "82"]
+  },
+  {
+    "uf": "PR",
+    "principais": ["41", "42", "43", "44", "45", "46"],
+    "alternativos": ["48", "11", "51"]
+  },
+  {
+    "uf": "PE",
+    "principais": ["81", "87"],
+    "alternativos": ["83", "82", "86"]
+  },
+  {
+    "uf": "PI",
+    "principais": ["86", "89"],
+    "alternativos": ["85", "98", "83"]
+  },
+  {
+    "uf": "RJ",
+    "principais": ["21", "22", "24"],
+    "alternativos": ["32", "27", "11"]
+  },
+  {
+    "uf": "RN",
+    "principais": ["84"],
+    "alternativos": ["83", "85", "86"]
+  },
+  {
+    "uf": "RS",
+    "principais": ["51", "53", "54", "55"],
+    "alternativos": ["48", "49", "41"]
+  },
+  {
+    "uf": "RO",
+    "principais": ["69"],
+    "alternativos": ["65", "66", "92"]
+  },
+  {
+    "uf": "RR",
+    "principais": ["95"],
+    "alternativos": ["92", "96", "97"]
+  },
+  {
+    "uf": "SC",
+    "principais": ["47", "48", "49"],
+    "alternativos": ["41", "51", "54"]
+  },
+  {
+    "uf": "SP",
+    "principais": ["11", "12", "13", "14", "15", "16", "17", "18", "19"],
+    "alternativos": ["21", "41", "27"]
+  },
+  {
+    "uf": "SE",
+    "principais": ["79"],
+    "alternativos": ["82", "81", "83"]
+  },
+  {
+    "uf": "TO",
+    "principais": ["63"],
+    "alternativos": ["62", "65", "66"]
+  }
+]

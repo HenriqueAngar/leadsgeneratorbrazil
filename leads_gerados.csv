@@ -1,0 +1,257 @@
+id,nome,telefone,nascimento,cpf,cep,uf,logradouro,bairro,cidade,complemento
+0001056,Vicente Santos,+55 (45) 90808-2056,1974-04-19,73648034596,81010270,PR,Rua Djalma Ferreira Maciel - de 241/242 ao fim,Lindóia,Curitiba,"Bloco C1, Apto 641"
+0001057,Dom da Rosa,+55 (22) 97584-7800,1968-11-02,81346053464,25615500,RJ,Vila Francisco Verrissimo da Silva,Quissama,Petrópolis,"Bloco C2, Apto 880"
+0001058,Ana Lívia Rios,+55 (31) 96028-4098,1997-12-12,00241086345,39445165,MG,Rua Olívia Magalhães de Oliveira - lado par,Esplanada,Janaúba,
+0001059,Lorenzo Novaes,+55 (81) 4933-6884,1998-04-29,59446374049,50711060,PE,Rua Dário Meira,Zumbi,Recife,Apto 453
+0001060,Noah das Neves,+55 (93) 92381-8886,1987-05-18,81209360195,67030970,PA,"Rua Cláudio Sanders, 25",Centro,Ananindeua,"Bloco D3, Apto 153"
+0001061,Levi Oliveira,+55 (15) 98277-1913,1981-01-08,91489243003,11055020,SP,Rua Voluntários Santistas,Boqueirão,Santos,"Bloco C1, Apto 930"
+0001062,Luiza Macedo,+55 (51) 93399-8466,2000-05-16,99115446050,92130650,RS,Beco Cinco de Abril,Niterói,Canoas,Apto 723
+0001063,Maria Guerra,+55 (21) 92462-5429,1959-04-23,20713382864,22793267,RJ,Rua Pedro Ludovico,Barra da Tijuca,Rio de Janeiro,"Bloco D3, Apto 860"
+0001064,Rafaela Costela,+55 (33) 92560-4288,1990-07-08,40149748205,33233060,MG,Rua Uriel de Abreu,Várzea,Lagoa Santa,
+0001065,João Gabriel Mendonça,+55 (55) 97094-2767,1968-12-28,49374339897,95180410,RS,Rua Casca,São José,Farroupilha,"Bloco E4, Apto 985"
+0001066,Ana Vitória Azevedo,+55 (22) 96876-7803,1975-08-28,65001595436,22060020,RJ,Rua Leopoldo Miguez - lado par,Copacabana,Rio de Janeiro,
+0001067,Raquel Viana,+55 (86) 99390-3199,2006-07-10,97419483957,62041500,CE,Rua Guiomão Almeida,Alto da Brasília,Sobral,Apto 146
+0001068,Brenda Monteiro,+55 (62) 90481-6211,1992-09-07,38148099634,74973743,GO,Rua Iracema,Setor Serra Dourada - 3ª Etapa,Aparecida de Goiânia,"Bloco E3, Apto 521"
+0001069,Yuri Duarte,+55 (21) 92402-4221,1955-07-04,66531796804,22710295,RJ,Rua Nicolau Paganini,Taquara,Rio de Janeiro,Apto 57
+0001070,Davi Luiz da Mota,+55 (88) 96084-0589,2001-12-01,16026235116,63038480,CE,Rua Maria Vilani Arraes da Costa,Monsenhor Francisco Murilo de Sá Barreto,Juazeiro do Norte,Apto 474
+0001071,Enrico Pereira,+55 (12) 5249-2843,1989-06-20,12072584159,06770080,SP,Rua Tsuruki Tsuno,Jardim Clementino,Taboão da Serra,
+0001072,Bruna da Luz,+55 (62) 97527-3688,1968-06-13,92535300060,75528043,GO,Rua Maria Similiana Rodrigues,Conjunto Habitacional Juca Arantes,Itumbiara,Apto 596
+0001073,Raquel Pacheco,+55 (24) 3901-5246,1978-12-30,08745859027,26310235,RJ,Rua Guapi,São Roque,Queimados,
+0001074,Manuela da Conceição,+55 (84) 95374-2206,1994-05-31,71375682547,59154075,RN,Rua Parque das Cachoeiras,Parque das Árvores,Parnamirim,"Bloco C2, Apto 652"
+0001075,Srta. Maria Helena Pacheco,+55 (21) 4114-7170,1958-02-10,69508047500,23587590,RJ,Rua H (Lot Jardim dos Vieira),Paciência,Rio de Janeiro,
+0001076,Alana Araújo,+55 (31) 95667-7041,1975-02-06,93064748300,38038084,MG,Rua Antônio Gonçalves Mendonça,Jardim Itália II,Uberaba,
+0001077,Esther Borges,+55 (66) 95585-8571,1957-07-20,88471656108,76808238,RO,Rua Tamareira - de 4317/4318 a 4526/4527,Caladinho,Porto Velho,
+0001078,Ayla Alves,+55 (64) 95832-7324,1981-11-07,46357358347,74594395,GO,Rua JI 3,Residencial Humaitá,Goiânia,"Bloco A5, Apto 125"
+0001079,Srta. Eduarda Vargas,+55 (22) 99588-4954,1952-08-29,19122160434,27263340,RJ,Rua Duzentos e Trinta e Nove,Conforto,Volta Redonda,
+0001080,João Miguel Mendes,+55 (34) 91269-8189,1960-10-09,27667214522,33230359,MG,Rua São Cristóvão,Promissão I,Lagoa Santa,"Bloco D5, Apto 912"
+0001081,Isis Novaes,+55 (48) 94707-9724,1969-04-05,18685394074,89021400,SC,Rua Alwin Kaestner,Garcia,Blumenau,Apto 483
+0001082,Apollo Campos,+55 (86) 3880-5286,1975-01-01,37837771001,54315320,PE,Estrada Velha do Jordão,Jardim Jordão,Jaboatão dos Guararapes,Casa 40
+0001083,Eloá Sampaio,+55 (62) 95639-5537,1973-12-12,50848308700,74973080,GO,Rua Alípio Junqueira,Setor Serra Dourada - 3ª Etapa,Aparecida de Goiânia,
+0001084,Asafe Viana,+55 (82) 90919-0796,1954-08-28,63660036706,57039700,AL,Rodovia Gunther Frans Oliveira (AL 101 Norte),Ipioca,Maceió,Casa 50
+0001085,Srta. Camila da Costa,+55 (77) 92696-1852,1995-12-27,84255773220,44042549,BA,Rua Sublime,Campo do Gado Novo,Feira de Santana,Apto 608
+0001086,Francisco da Rosa,+55 (77) 95377-2272,1957-01-09,32520000910,45989124,BA,Rua Marilzan Cavalcante,Castelinho,Teixeira de Freitas,
+0001087,Elisa da Paz,+55 (51) 95418-3307,1986-12-12,34800312345,93336040,RS,Rua Albino Alfredo Spohr,Ideal,Novo Hamburgo,Apto 852
+0001088,Srta. Giovanna Silva,+55 (11) 97795-2120,2000-10-11,74078426808,18680550,SP,Rua Amazonas - até 423/424,Jardim Cruzeiro,Lençóis Paulista,"Bloco B1, Apto 835"
+0001089,Isaque Sampaio,+55 (17) 4632-9399,1994-01-03,59082242940,06795060,SP,Rua Agostinho Marcelino de Souza,Parque Laguna,Taboão da Serra,"Bloco D4, Apto 710"
+0001090,Nathan Brito,+55 (24) 99977-1554,1974-09-22,87654247354,25640033,RJ,Servidão João José Alves de Paula,Castelanea,Petrópolis,Apto 831
+0001091,Olívia Moreira,+55 (18) 3842-5651,1983-12-25,93752570539,12922427,SP,Rua João Andalécio Gê-Acaiaba,Jardim Vista Alegre,Bragança Paulista,
+0001092,Alexia Freitas,+55 (84) 94207-3347,1969-07-24,15112395656,59620693,RN,Avenida Hamilton Freire de Andrade Júnior,Redenção,Mossoró,"Bloco E4, Apto 707"
+0001093,Felipe Correia,+55 (61) 93537-0472,1971-12-30,64079625952,72801510,GO,Avenida Central,Setor Fumal,Luziânia,Apto 274
+0001094,Pedro Alves,+55 (21) 99772-7078,1968-04-13,94927302350,02226001,SP,Rua Tenente Sotomano - de 1389/1390 ao fim,Jardim Brasil (Zona Norte),São Paulo,"Bloco C3, Apto 22"
+0001095,Luiz Miguel Fonseca,+55 (27) 97302-2180,1961-09-17,66667662451,08592310,SP,Rua Pedregulho,Parque Recanto Mônica,Itaquaquecetuba,
+0001096,Davi Miguel da Rocha,+55 (82) 95766-7056,1975-04-07,62427546062,57240016,AL,Avenida Vera Cruz - lado par,Centro,São Miguel dos Campos,Apto 620
+0001097,Maya Porto,+55 (28) 91461-5275,1993-05-02,86620505309,29052046,ES,Beco Almir Barbosa,Jesus de Nazareth,Vitória,Casa 40
+0001098,Vinícius Silva,+55 (19) 91328-5107,1980-02-10,64071590408,07083340,SP,Rua Palmira D'Oeste,Jardim Betel,Guarulhos,"Bloco D5, Apto 802"
+0001099,Pedro Henrique Cardoso,+55 (81) 95446-0012,1955-06-07,87907747520,54753130,PE,Rua Aleixo,Nazaré,Camaragibe,"Bloco C4, Apto 87"
+0001100,Arthur Nogueira,+55 (12) 93520-0900,2005-05-13,33319483811,17202450,SP,Rua Prefeito Francisco Toledo Arruda,Chácara Canhos,Jaú,Apto 135
+0001101,Arthur Miguel Dias,+55 (21) 90315-3222,1980-01-10,64932856580,25810360,RJ,Rua Boa Vista,Monte Castelo,Três Rios,Apto 838
+0001102,Bruna Cunha,+55 (53) 93466-3732,1982-02-05,36494369146,91550800,RS,Rua Humberto Luiz Monteiro,Lomba do Pinheiro,Porto Alegre,Apto 96
+0001103,Lorena Novais,+55 (91) 98598-7350,1968-04-10,40107553856,66030075,PA,Vila Maria do Parto,Jurunas,Belém,"Bloco B2, Apto 637"
+0001104,Augusto Borges,+55 (11) 93815-2883,1969-08-03,48937514095,08485440,SP,Rua Arroio Arapongas,Conjunto Habitacional Santa Etelvina III,São Paulo,Apto 277
+0001105,Evelyn da Rocha,+55 (12) 98060-7530,2004-11-29,41771222891,06693420,SP,Rua dos Sapotis,Chácara Vitápolis,Itapevi,"Bloco E5, Apto 818"
+0001106,Maria Helena Fernandes,+55 (86) 98178-6604,1962-09-03,78310083300,55602140,PE,Rua Professora Amélia Coelho,Matriz,Vitória de Santo Antão,"Bloco B5, Apto 347"
+0001107,João Guilherme Pacheco,+55 (27) 3689-3753,1986-03-14,39864681290,22760130,RJ,Rua Professor Manuel Lima,Freguesia (Jacarepaguá),Rio de Janeiro,Apto 688
+0001108,Yuri Rodrigues,+55 (33) 99270-1843,1996-10-06,26831301207,32210187,MG,Beco Principal,Cidade Industrial,Contagem,Apto 470
+0001109,Alice Câmara,+55 (81) 4828-7942,1981-09-09,91621690172,49065710,SE,Rua São João,Industrial,Aracaju,"Bloco D4, Apto 864"
+0001110,Ana Julia Moreira,+55 (84) 92043-8178,1978-05-25,94883783529,59633460,RN,Rua Sebastião Leandro,Alto do Sumaré,Mossoró,
+0001111,Aylla Fernandes,+55 (54) 90452-3848,1994-04-16,17413189399,96410060,RS,Rua Trezentos e Cinqüenta e Sete,São Domingos,Bagé,Apto 864
+0001112,Bella Andrade,+55 (91) 90382-9432,1976-06-15,58132131983,67133000,PA,Travessa Sn-17 (Cidade Nova V),Cidade Nova,Ananindeua,
+0001113,Luiz Gustavo Novaes,+55 (48) 91219-3120,1988-03-14,66054763105,88501013,SC,Rua Aroldo da Silva Sá,Centro,Lages,
+0001114,Alice Brito,+55 (88) 90516-1241,1985-08-04,09683759793,63022030,CE,Rua Izabel Leal,Antônio Vieira,Juazeiro do Norte,Casa 10
+0001115,Eduardo Caldeira,+55 (22) 93199-6509,1972-09-21,33591054518,27525320,RJ,Rua Joel Graciani,Cidade Alegria II,Resende,
+0001116,Ana Julia Garcia,+55 (96) 99131-3906,1970-02-05,51015097871,66026338,PA,Vila Safira,Jurunas,Belém,Casa 87
+0001117,Nicolas Vieira,+55 (14) 98595-8716,1955-03-10,93676811437,08568740,SP,Travessa Cambiri,Jardim Nova Poá,Poá,"Bloco C1, Apto 679"
+0001118,Fernanda Sales,+55 (62) 95144-3711,1997-03-31,95291818840,72504241,DF,CL 404 Bloco A,Santa Maria,Brasília,Apto 642
+0001119,Thiago Costela,+55 (69) 93805-2094,2006-04-05,69951709702,76914700,RO,Rua Santa Clara - de 491/492 a 1066/1067,Primavera,Ji-Paraná,"Bloco D3, Apto 961"
+0001120,Bianca Moura,+55 (41) 92810-6617,1973-10-15,98809209028,05635030,SP,Rua Ladário Teixeira,Jardim Monte Kemel,São Paulo,Apto 99
+0001121,Daniel da Conceição,+55 (88) 99350-3231,1983-05-05,54497896374,60510181,CE,Vila Rosinha,Henrique Jorge,Fortaleza,Apto 678
+0001122,Hadassa Novaes,+55 (13) 92211-7309,2000-01-05,09497303785,03664050,SP,Travessa Palma Christi,Vila Ré,São Paulo,
+0001123,Alícia Silva,+55 (74) 93563-9233,1975-11-20,36633427867,41925325,BA,Rua Valdomiro,Santa Cruz,Salvador,Apto 341
+0001124,Joana Moreira,+55 (84) 95310-5986,1996-04-20,55538999661,59490970,RN,"Rua José Camilo Bezerra, 31",Centro,Ielmo Marinho,Casa 51
+0001125,Benjamin Leão,+55 (53) 96567-3370,1964-04-29,99645322294,92032635,RS,Rua Jabuticabas (Lot Nova Estância I),Estância Velha,Canoas,Apto 34
+0001126,Isadora Brito,+55 (41) 90006-5627,1996-11-07,96430278301,81170520,PR,Rua João Amaral de Almeida,Cidade Industrial,Curitiba,"Bloco D4, Apto 484"
+0001127,Emanuelly Sampaio,+55 (75) 90932-2846,1978-03-20,25943388770,48603596,BA,Rua Madre Tereza de Calcutá,São Vicente,Paulo Afonso,Apto 868
+0001128,Ana Lívia Sampaio,+55 (77) 91065-7526,1957-12-10,27192285838,40220245,BA,1ª Travessa Palmeiras,Engenho Velho da Federação,Salvador,
+0001129,Maya Cavalcante,+55 (62) 93726-2778,1985-09-02,59484790720,75134500,GO,Rua Ibirapuera,Vila Mariana,Anápolis,Apto 865
+0001130,Brayan Alves,+55 (21) 3019-8950,1971-04-12,53063225908,19065780,SP,Rua Geremia Anhasco,Jardim Vale Verde,Presidente Prudente,Apto 691
+0001131,Bruno Borges,+55 (14) 91706-5822,1978-08-06,68742166276,04851402,SP,Rua Rouxinol Cantante,Parque Residencial dos Lagos,São Paulo,
+0001132,Maria Isis Aparecida,+55 (48) 94294-4664,1954-08-17,78061156253,89708308,SC,Rua Attilio Lorenzetti,Nações,Concórdia,"Bloco A1, Apto 964"
+0001133,Heloisa Cirino,+55 (62) 91522-6020,2005-11-10,55088141831,74356074,GO,Rua RI 27,Residencial Itaipu,Goiânia,"Bloco E1, Apto 620"
+0001134,Srta. Aurora Porto,+55 (18) 3795-9494,1971-07-03,77762556370,04468100,SP,Rua General Edson Figueiredo,Jardim da Pedreira,São Paulo,
+0001135,Ana Beatriz Gomes,+55 (11) 94809-5697,1997-06-16,29665310704,07174210,SP,Rua Horácio de Almeida,Residencial Parque Cumbica,Guarulhos,Apto 434
+0001136,Ryan Pacheco,+55 (24) 96658-1875,1998-10-24,52137427427,23932447,RJ,Rua Seis de Janeiro - até 179/180,Campo Belo (Cunhambebe),Angra dos Reis,Apto 449
+0001137,Diego Aragão,+55 (21) 92695-4548,1952-11-09,24662528135,24030090,RJ,Rua Visconde de Itaboraí - até 129 - lado ímpar,Centro,Niterói,Apto 576
+0001138,Dom Rios,+55 (75) 93971-5352,1976-03-19,48515850397,40365885,BA,2ª Avenida da Alegria,Curuzu,Salvador,"Bloco D1, Apto 117"
+0001139,Luna Brito,+55 (93) 3935-2588,2005-07-23,20111239257,66615640,PA,Rua E Conjunto Mendara,Marambaia,Belém,"Bloco C1, Apto 367"
+0001140,Luísa Freitas,+55 (27) 91361-0544,1965-02-15,69509397440,38010400,MG,Rua Senador Pena,Centro,Uberaba,
+0001141,Yago da Paz,+55 (48) 93026-0607,1969-05-30,13223686002,89254100,SC,Rua Prefeito José Bauer - até 1199/1200,Rau,Jaraguá do Sul,Apto 619
+0001142,Sarah da Rosa,+55 (82) 92636-8730,1966-02-02,38388124331,49015380,SE,Avenida Augusto Maynard,São José,Aracaju,"Bloco D2, Apto 882"
+0001143,Valentina Castro,+55 (67) 99015-2455,2004-07-27,92601539488,79410970,MS,"Avenida Manoel Alves de Moraes Junior, 52",Centro,Pedro Gomes,
+0001144,Ágatha Nogueira,+55 (53) 91930-2247,1987-11-26,63001525290,97574810,RS,Rua Marcos Ramires Filho,Umbu,Santana do Livramento,Apto 408
+0001145,Rafael Araújo,+55 (21) 93005-2507,1969-02-04,78554986997,17604440,SP,Rua Antônio Limieri,Parque Tabajaras,Tupã,Apto 333
+0001146,Breno Oliveira,+55 (42) 97937-8488,1981-12-17,40923464840,87290970,PR,"Avenida Liberdade, 1842-B",Centro,Luiziana,Apto 47
+0001147,Rebeca da Luz,+55 (35) 98516-7262,1972-03-19,07014946463,33943490,MG,Rua Juvenil Ferreira da Cruz,Felixlândia (Justinópolis),Ribeirão das Neves,
+0001148,Bianca Casa Grande,+55 (79) 90208-3928,1955-11-14,35347696192,44066162,BA,Rua Barro Preto,Conceição,Feira de Santana,
+0001149,Milena da Rosa,+55 (61) 96254-1691,2003-03-10,07704055925,71805126,DF,QN 1 Conjunto 26,Riacho Fundo I,Brasília,"Bloco A3, Apto 53"
+0001150,Vitória Moura,+55 (27) 97064-3364,1990-05-14,72850866148,29024025,ES,Travessa Nove de Agosto,Grande Vitória,Vitória,Apto 162
+0001151,Pedro Miguel Sales,+55 (51) 92023-5947,1952-12-17,46618354846,88348396,SC,Rua Monte Dedo de Deus,Monte Alegre (Monte Alegre),Camboriú,Casa 25
+0001152,Arthur Mendonça,+55 (66) 92674-2474,1954-04-12,57816290250,78555230,MT,Rua Nicolau Flessak - até 1262/1263,Jardim Europa,Sinop,"Bloco D4, Apto 427"
+0001153,Antony da Rocha,+55 (64) 92484-8122,1980-05-25,01897058330,74943650,GO,Rua Monsenhor Jerônimo,Jardim Buriti Sereno,Aparecida de Goiânia,
+0001154,Bella Brito,+55 (73) 90428-8510,1966-04-15,68761027855,41305025,BA,Rua Sargento Nicanor Alves,Valéria,Salvador,Apto 865
+0001155,Juliana Pacheco,+55 (14) 97772-4222,1993-08-27,32589584083,06608010,SP,Rua São José,Jardim Belmont,Jandira,"Bloco A5, Apto 556"
+0001156,Diego Pastor,+55 (81) 92011-7049,1967-07-02,66794961288,50020410,PE,Rua dos Pescadores,São José,Recife,
+0001157,Gustavo Henrique Guerra,+55 (62) 5409-3687,1999-01-09,52504537328,78010904,MT,"Rua Vereador João Barbosa Caramuru, 258",Bandeirantes,Cuiabá,Apto 128
+0001158,Carolina Vieira,+55 (24) 91748-6911,1975-07-08,10112594433,20920350,RJ,Rua Ferreira de Araújo,São Cristóvão,Rio de Janeiro,"Bloco D1, Apto 834"
+0001159,Emilly Cardoso,+55 (86) 4754-2594,1987-11-10,03688655338,64216781,PI,Quadra F4 (Cj Dom Rufino I),Igaraçu,Parnaíba,Casa 55
+0001160,Noah Nascimento,+55 (66) 99122-6757,1981-01-29,65387676729,78135628,MT,Rua Vitória da Conquista (Lot N V Grande),Centro-Sul,Várzea Grande,
+0001161,Samuel Aparecida,+55 (18) 5176-4241,2005-09-08,22902920520,12518360,SP,Rua Maria de Lourdes Carvalho,Jardim Esperança,Guaratinguetá,Apto 621
+0001162,Esther Barros,+55 (61) 90615-6411,2002-09-21,63483184198,73051145,DF,Quadra 14 Comércio Local 18,Sobradinho,Brasília,"Bloco D2, Apto 417"
+0001163,José Pedro das Neves,+55 (11) 91134-6457,2006-10-23,24484847590,27525610,RJ,Rua F,Morada da Montanha,Resende,
+0001164,Marina Vargas,+55 (83) 96509-3255,1987-06-22,01375301535,58973000,PB,,Distrito,Cardoso (Conceição),Apto 833
+0001165,Matteo Pastor,+55 (31) 96195-7356,1977-11-23,34095867760,72333304,DF,QR 623 Conjunto 3,Samambaia Norte (Samambaia),Brasília,
+0001166,Theo Ferreira,+55 (54) 93019-6115,1995-07-20,49652206687,91755782,RS,Beco Um (Juca Batista),Hípica,Porto Alegre,
+0001167,Ana Clara Jesus,+55 (47) 98155-1978,1985-04-24,63646096519,89058402,SC,Rua San Marino,Fortaleza Alta,Blumenau,Apto 305
+0001168,Oliver da Rocha,+55 (42) 5086-5166,1996-07-02,08509151393,83324140,PR,Rua Pastor Eurípedes Souza de Oliveira,Centro,Pinhais,"Bloco D4, Apto 581"
+0001169,Isabelly da Paz,+55 (86) 98552-0191,1991-06-05,01169032443,59668971,RN,"Rua Joca de Melo, 102",Centro,Porto do Mangue,
+0001170,Marina Fogaça,+55 (89) 93753-4229,1998-08-03,75702403401,64202155,PI,Rua Augusto Severo,Nossa Senhora de Fátima,Parnaíba,Apto 435
+0001171,Yuri da Mota,+55 (61) 3817-0462,1957-10-01,33307172034,72428011,DF,Casa Grande Módulo 1 MA - 4,Ponte Alta Norte (Gama),Brasília,Apto 80
+0001172,Letícia Lima,+55 (21) 94076-4855,1966-06-22,36717276754,25977095,RJ,Estrada Guatemala,Albuquerque,Teresópolis,
+0001173,Diogo Peixoto,+55 (83) 3327-7259,1995-03-02,66862393138,59621483,RN,Rua Geraldo Couto,Santo Antônio,Mossoró,
+0001174,Kamilly Rodrigues,+55 (22) 97349-9988,1995-06-08,45977902840,26052560,RJ,Rua Batel,Parque Saudade,Nova Iguaçu,Casa 10
+0001175,Aurora Novais,+55 (79) 90148-8339,1986-01-30,77682597500,49004712,SE,Rua M (Lot Pr do Refúgio),Zona de Expansão (Robalo),Aracaju,"Bloco B2, Apto 635"
+0001176,Cauã Santos,+55 (11) 96791-7167,1967-03-11,90331242117,03570190,SP,Rua Vito Modesto Pedote,Parque Savoy City,São Paulo,
+0001177,Isis Dias,+55 (33) 97674-4011,1984-01-07,94879705411,30692680,MG,Rua Bálsamo,Marilândia,Belo Horizonte,"Bloco D4, Apto 495"
+0001178,Ana Beatriz Lima,+55 (19) 97195-9723,1966-03-02,48746475028,19042653,SP,Rua Celina Sumie Itani Akaki,Conjunto Habitacional José de Souza Reis,Presidente Prudente,"Bloco E3, Apto 859"
+0001179,Larissa da Mata,+55 (17) 95288-3425,1963-12-24,37744714369,12341210,SP,Rua Benedito Martins,Vila São João (São Silvestre),Jacareí,"Bloco B1, Apto 783"
+0001180,Ravi Ferreira,+55 (74) 96307-3590,1980-02-21,29836477810,40349165,BA,Ladeira dos Fiais,Alto do Peru,Salvador,Apto 586
+0001181,Liz Correia,+55 (48) 95275-6988,1958-01-20,61727005295,87069026,PR,Rua 61.004,Parque Industrial Cidade de Maringá,Maringá,Apto 656
+0001182,Brenda Martins,+55 (18) 93216-1464,1967-12-23,37929039030,06820210,SP,Rua Marechal Deodoro da Fonseca,Jardim Presidente Kennedy,Embu das Artes,
+0001183,Ana Clara Borges,+55 (62) 91686-5855,1994-02-06,69141270932,74255360,GO,Rua C120,Jardim América,Goiânia,Apto 320
+0001184,Daniel Gonçalves,+55 (92) 94722-0866,1993-08-07,05102617010,69401335,AM,Rua Augusto Lemos Coelho,Terra Preta,Manacapuru,
+0001185,Caio Leão,+55 (14) 4822-2068,1988-01-05,72821128517,15061807,SP,Rua Luiz Octávio Ramos Pires,Residencial Marcia,São José do Rio Preto,Casa 66
+0001186,Catarina Costela,+55 (21) 90076-0235,1979-05-27,09733953628,29287000,ES,,Distrito,Aghá (Piúma),Apto 934
+0001187,Ana Julia Moraes,+55 (14) 97310-6308,1959-09-08,84798920720,17213600,SP,Rua Nelson Camargo,Jardim Nova Jaú,Jaú,"Bloco B2, Apto 772"
+0001188,João Miguel Lopes,+55 (98) 98175-5301,1954-04-02,72414976608,68005490,PA,Rua Belém,Prainha,Santarém,Apto 969
+0001189,Gabriela Siqueira,+55 (21) 97533-5750,1957-11-15,59502349601,12513050,SP,Rua Seis,São Dimas,Guaratinguetá,Apto 457
+0001190,Fernanda Aragão,+55 (11) 95467-2703,1953-08-06,30525395903,30320650,MG,Rua Professor Raimundo Cândido,Belvedere,Belo Horizonte,Casa 66
+0001191,Igor Ribeiro,+55 (55) 97565-4054,1954-04-09,85121966377,99054120,RS,Rua Gomercindo dos Reis,São Luiz Gonzaga,Passo Fundo,Apto 475
+0001192,Daniel Lima,+55 (37) 4318-3154,1986-07-01,63736177429,31730350,MG,Rua Balsa,Campo Alegre,Belo Horizonte,Apto 839
+0001193,Breno Sousa,+55 (11) 97223-5397,1984-01-03,50724860797,81490384,PR,Rua Professor Astolpho de Macedo Souza Filho,Campo de Santana,Curitiba,Apto 364
+0001194,Lavínia Pinto,+55 (48) 93888-4753,1966-09-30,18639059012,96830691,RS,Rua Cristiano Haar,Aliança,Santa Cruz do Sul,"Bloco B3, Apto 933"
+0001195,Letícia Vargas,+55 (51) 4029-4751,1977-09-28,20032783620,88317527,SC,Rua José Francisco Reis,Espinheiros,Itajaí,"Bloco E3, Apto 610"
+0001196,Laura Macedo,+55 (27) 4574-5065,1954-02-26,41603040609,18209400,SP,Praça São Paulo,Jardim Leonel,Itapetininga,
+0001197,Isabelly Sampaio,+55 (13) 4361-3432,1954-05-24,36173798859,08320330,SP,Rua Clemente Falcão,Parque São Rafael,São Paulo,Apto 295
+0001198,Vicente Abreu,+55 (16) 97728-7069,2007-01-04,65004199361,09860090,SP,Rua José Campi (Jd V Cruz),Independência,São Bernardo do Campo,"Bloco D1, Apto 456"
+0001199,Srta. Emanuelly Gomes,+55 (87) 94965-3059,1991-05-27,03292747830,55158400,PE,Rua Baraúna,COHAB-I,Belo Jardim,Apto 683
+0001200,Marcela Almeida,+55 (33) 95175-5133,1994-02-02,99645933170,32415676,MG,Alameda da Jangada,Quintas da Jangada - 3ª Seção,Ibirité,"Bloco A1, Apto 631"
+0001201,Amanda Fernandes,+55 (38) 98729-5818,1960-11-11,96031474000,36092040,MG,Rua E,Distrito Industrial,Juiz de Fora,Apto 322
+0001202,Luna Casa Grande,+55 (61) 93767-1287,1952-11-09,17941203006,36061195,MG,Rua Antônio Pedro Félix,São Benedito,Juiz de Fora,"Bloco E3, Apto 645"
+0001203,Emanuel Leão,+55 (32) 5231-3912,1974-07-09,34810101681,26127800,RJ,Rua Rubi,Shangri-lá,Belford Roxo,
+0001204,Rhavi Pereira,+55 (79) 99609-5446,1971-06-11,14761763531,48609022,BA,Rua 13 de Maio,Tancredo Neves I,Paulo Afonso,
+0001205,Emanuel Pacheco,+55 (14) 98394-8012,1968-02-02,91347732829,05876070,SP,Rua Fernandes Trancoso,Jardim Guarujá,São Paulo,
+0001206,Mirella Alves,+55 (19) 96568-9416,1991-07-30,59407287157,17210090,SP,Rua Paulino Maciel,Chácara Braz Miraglia,Jaú,Apto 503
+0001207,Beatriz Santos,+55 (84) 95359-2534,1996-01-07,89216582111,59035660,RN,Rua Luiz Souto,Quintas,Natal,Casa 21
+0001208,Ravy Cassiano,+55 (24) 90660-6976,2004-04-29,46456540208,27935110,RJ,Rua Manaus,Novo Horizonte,Macaé,Apto 892
+0001209,Henrique Cardoso,+55 (14) 96314-9763,1969-07-03,66356411570,05868090,SP,Rua Trevo de Cheiro,Conjunto Habitacional Instituto Adventista,São Paulo,
+0001210,Luiza da Luz,+55 (34) 5775-3602,2006-03-07,92061924425,38082060,MG,Rua Jorge Miguel Miziara,São José,Uberaba,
+0001211,Joana Fernandes,+55 (51) 90757-0590,1961-12-27,32742054863,89802405,SC,Rua Clevelândia - D - de 481/482 a 1072/1073,Jardim Itália,Chapecó,
+0001212,Kaique Melo,+55 (85) 3585-6095,1954-03-02,75414267928,60332415,CE,Travessa Novo Lar,Barra do Ceará,Fortaleza,"Bloco B1, Apto 420"
+0001213,Maria Isis Dias,+55 (79) 93404-1529,1989-07-28,61286607620,49041090,SE,Rua Engenheiro Marcondes Ferraz - até 9997/9998,Inácio Barbosa,Aracaju,
+0001214,Milena Novais,+55 (13) 95198-0886,1978-02-27,20880536110,03436007,SP,Travessa Francisca de Paula,Vila Carrão,São Paulo,Apto 467
+0001215,Marina Sá,+55 (66) 92968-3289,1982-10-22,45933575437,78120585,MT,Rua Padre Firmo (Lot Maringá I),Parque do Lago,Várzea Grande,Apto 673
+0001216,Manuela Abreu,+55 (66) 92168-9439,1996-09-01,81178283836,79052070,MS,Rua Spipe Calarge - de 2000/2001 ao fim,Vila Morumbi,Campo Grande,"Bloco B2, Apto 49"
+0001217,Davi Lucca Martins,+55 (71) 94331-1448,1981-01-12,02258447372,45079436,BA,Rua G (Res Jequitibá),Zabelê,Vitória da Conquista,
+0001218,Ana Carolina Sampaio,+55 (86) 92720-0823,1980-11-22,73309249549,64002420,PI,Rua Anísio de Abreu (Zona Norte) - de 1203 a 1503 - lado ímpar,Vila Operária,Teresina,Casa 66
+0001219,Ana Clara Porto,+55 (41) 93745-0860,2004-12-03,25462969490,19061374,SP,Rua dos Cisnes,Jardim João Paulo II,Presidente Prudente,Apto 525
+0001220,Luara Rios,+55 (17) 91019-0841,1955-07-18,92197707841,06882150,SP,Estrada João Antonio Domingues,Potuverá,Itapecerica da Serra,"Bloco C1, Apto 78"
+0001221,Sophia Castro,+55 (81) 90602-3027,1977-02-19,39184495723,40349742,BA,Beco de Abílio,Alto do Peru,Salvador,"Bloco A1, Apto 191"
+0001222,Ana Luiza Viana,+55 (24) 93672-2235,1959-12-15,92620552850,26475420,RJ,Rua Evaristo Lobato,Jardim São Sebastião,Japeri,Casa 7
+0001223,Otto Pacheco,+55 (87) 90885-8010,2000-09-13,24954345685,53230410,PE,Rua Dom Bosco,Peixinhos,Olinda,"Bloco D2, Apto 902"
+0001224,Ana Sophia Fogaça,+55 (22) 96234-5966,2003-07-22,67927313231,23918561,RJ,Rua Maria dos Anjos,Garatucaia,Angra dos Reis,Apto 371
+0001225,Lorenzo da Cruz,+55 (14) 5803-2893,1970-05-30,36191333447,13221560,SP,Rua Azulão,Cidade Nova II,Várzea Paulista,Apto 253
+0001226,Benício Pimenta,+55 (11) 98369-5329,1966-06-15,16526376215,13636120,SP,Rua Aristóteles de Oliveira,Vila Santa Terezinha,Pirassununga,Casa 14
+0001227,Manuela Rios,+55 (87) 3008-1129,2002-11-12,39075032951,54759214,PE,Alameda dos Jacarandas,Vila da Fábrica,Camaragibe,
+0001228,Yan Mendonça,+55 (31) 95608-5703,1960-10-20,88189882635,70790164,DF,SGAN 916 Módulo D,Asa Norte,Brasília,Apto 140
+0001229,Francisco Lopes,+55 (97) 91688-1461,1969-01-21,23364922969,69151650,AM,Rua Padre Martins,Santa Clara,Parintins,Apto 434
+0001230,Otto Pimenta,+55 (83) 3541-7880,1966-08-21,99129984130,59625583,RN,Rua Vicente Balbino Diniz,Presidente Costa e Silva,Mossoró,Casa 42
+0001231,Augusto Camargo,+55 (22) 90390-9674,1981-01-28,39324388177,22770234,RJ,Rua Professor Henrique Costa - de 687 ao fim - lado ímpar,Pechincha,Rio de Janeiro,
+0001232,Leandro Porto,+55 (62) 5538-0344,1963-09-27,59261662765,31842072,MG,Beco São José,Tupi A,Belo Horizonte,Casa 86
+0001233,Ana Carolina Cunha,+55 (21) 97866-2253,1980-03-27,90145342646,23065015,RJ,Rua Carlos Luiz,Paciência,Rio de Janeiro,
+0001234,Sophia Machado,+55 (13) 3899-5937,1982-02-12,99266914398,05307130,SP,Rua Conde Castro e Sola,Jardim Humaitá,São Paulo,Apto 712
+0001235,Emanuelly Moraes,+55 (65) 90394-7323,1955-06-06,82980608220,78550534,MT,Avenida dos Jacarandás - de 4348 a 5108 - lado par,Setor Industrial Norte,Sinop,"Bloco B5, Apto 926"
+0001236,Natália Castro,+55 (74) 93192-5831,1985-10-28,30531474089,45037785,BA,Rua Trinta e Um (Vl Elisa),Espírito Santo,Vitória da Conquista,
+0001237,Gael Sales,+55 (27) 97378-6471,1977-07-14,79730673535,38030260,MG,Rua Walter Antônio Montes,Cidade Jardim,Uberaba,
+0001238,Ana Beatriz Jesus,+55 (48) 94051-3735,1955-04-10,74618261820,88047005,SC,Servidão Valdemiro Dias,Costeira do Pirajubaé,Florianópolis,
+0001239,Emanuel Cavalcante,+55 (21) 97777-5885,1976-02-20,98126958774,28614210,RJ,Rua Comendador José Mastrângelo,Santa Elisa,Nova Friburgo,Apto 116
+0001240,Amanda Souza,+55 (66) 94737-5452,1956-11-23,66712952980,74393050,GO,Rua FP5,Recreio do Funcionário Público,Goiânia,"Bloco E3, Apto 56"
+0001241,Sofia Siqueira,+55 (44) 99593-5744,1975-05-27,82708422812,83307500,PR,Rua Antônio Brudeck,Roça Nova,Piraquara,Casa 4
+0001242,Dante Mendonça,+55 (49) 92853-8237,1993-08-30,04530323110,97330000,RS,,Distrito,Azevedo Sodré (São Gabriel),
+0001243,Srta. Cecilia Santos,+55 (61) 4882-7003,1954-08-23,01940135613,72833718,GO,Quadra 218,Parque Desportivo Brasília (Roosevelt),Luziânia,"Bloco C3, Apto 683"
+0001244,Marina Lima,+55 (73) 4559-4633,1995-01-27,81796145653,45052130,BA,Rua J (Urbis II e III),Bateias,Vitória da Conquista,
+0001245,Vitória Ferreira,+55 (14) 94982-0111,1964-07-24,29969986007,19027320,SP,Rua Afonso Vincoletto,Jardim Sabará,Presidente Prudente,Apto 413
+0001246,Maria Luiza da Luz,+55 (42) 96497-8725,1963-02-24,59434956307,81910320,PR,Rua Saturno,Sítio Cercado,Curitiba,
+0001247,Pedro Henrique Câmara,+55 (27) 94656-5748,2001-04-27,54473306704,07056030,SP,Rua Vinte e Quatro de Maio,Vila Galvão,Guarulhos,Apto 478
+0001248,Ravi Lucca Brito,+55 (21) 98976-8838,1967-02-23,09159451696,05036175,SP,Rua Arnaldo José Pacífico (Jardim das Perdizes),Água Branca,São Paulo,
+0001249,Vitor Castro,+55 (27) 90919-3876,1993-02-03,48588513382,11621666,SP,Rua Itapeva,Baleia,São Sebastião,Apto 291
+0001250,Pedro Ramos,+55 (61) 93693-5605,1979-04-10,71417081384,72735013,DF,Quadra 35 Conjunto M,Vila São José (Brazlândia),Brasília,"Bloco A2, Apto 857"
+0001251,Daniel Leão,+55 (64) 95372-6774,2005-09-04,26028783838,74110130,GO,Rua 2,Setor Oeste,Goiânia,Apto 175
+0001252,Benicio Borges,+55 (41) 4448-9344,1977-01-28,91161351132,81850004,PR,Rua Francisco Derosso - de 4306 a 5360 - lado par,Alto Boqueirão,Curitiba,Apto 252
+0001253,Anthony Oliveira,+55 (66) 96429-5791,1980-01-08,93735563392,76876526,RO,Rua Iara - até 2150/2151,Jardim Jorge Teixeira,Ariquemes,"Bloco B3, Apto 453"
+0001254,Ana Luiza Alves,+55 (27) 91377-3960,1959-03-17,81605013749,22715101,RJ,Beco da Tarde,Taquara,Rio de Janeiro,Apto 559
+0001255,Cecilia Porto,+55 (24) 96581-2893,1958-10-25,86036727682,23590630,RJ,Travessa Nove,Santa Cruz,Rio de Janeiro,Apto 398
+0001256,Maya Sampaio,+55 (87) 90657-9896,1959-02-17,83244577474,53560590,PE,Rua Caruaru,Jardim Caetés,Abreu e Lima,
+0001257,Catarina Souza,+55 (81) 3060-7811,1984-03-09,63816569218,55614390,PE,Rua Sagrado Coração de Maria,Mário Bezerra,Vitória de Santo Antão,Apto 303
+0001258,Cauê Cavalcante,+55 (62) 99226-4602,1980-06-09,31950599914,74815620,GO,Rua 2,Chácaras Alto da Glória,Goiânia,"Bloco A5, Apto 680"
+0001259,Srta. Ana Cecília da Mata,+55 (69) 3663-6585,1972-06-28,35216363130,76820800,RO,Rua Venezuela - de 1953/1954 a 2254/2255,Embratel,Porto Velho,Apto 209
+0001260,Ravy Campos,+55 (41) 5924-4623,1992-05-09,98347363390,08760150,SP,Viela Louro,Jardim Planalto,Mogi das Cruzes,"Bloco A5, Apto 271"
+0001261,Vitor Camargo,+55 (86) 95833-8389,1955-08-04,77103348812,60120245,CE,Travessa Cravinhos,São João do Tauape,Fortaleza,Casa 73
+0001262,Isabelly Barros,+55 (61) 96620-3284,2003-04-12,11935232576,72593023,DF,QBR 2 Bloco M,Residencial Santos Dumont (Santa Maria),Brasília,
+0001263,Sara Lima,+55 (62) 95010-0324,1981-02-13,40168676907,75106896,GO,Rua Manga Rosa,Residencial Tangará,Anápolis,"Bloco C3, Apto 257"
+0001264,Maria Marques,+55 (19) 92975-7164,1998-12-21,41623748054,14904000,SP,,Distrito,Nova América (Itápolis),Apto 190
+0001265,Kaique Souza,+55 (62) 95051-0992,1956-09-11,85303542220,74823380,GO,Rua T 65 A,Setor Bela Vista,Goiânia,Casa 44
+0001266,Bruno Freitas,+55 (61) 97390-3593,1964-01-15,46253287800,72593015,DF,QBR 2 Bloco E,Residencial Santos Dumont (Santa Maria),Brasília,Casa 62
+0001267,Brenda Vieira,+55 (87) 97152-7215,1972-12-26,17787618019,55038245,PE,Rua Pindoba Branca,Boa Vista,Caruaru,Apto 322
+0001268,Benicio das Neves,+55 (14) 92046-6384,1985-07-21,70561625840,05079000,SP,Rua Tomé de Souza - até 499/500,Lapa,São Paulo,"Bloco D2, Apto 302"
+0001269,Arthur Miguel Aragão,+55 (11) 92498-1439,1957-09-06,24556041600,83820383,PR,Travessa Reseda,Eucaliptos,Fazenda Rio Grande,Apto 254
+0001270,Hadassa da Costa,+55 (21) 92677-6197,1988-11-06,94911102926,24868376,RJ,Rua C,Jardim Itambi (Itambi),Itaboraí,Apto 740
+0001271,Valentina Caldeira,+55 (47) 4106-5806,1955-09-26,01288338317,89211700,SC,Rua São Paulo - de 2556 a 3392 - lado par,Floresta,Joinville,"Bloco B5, Apto 390"
+0001272,Maria Luísa Macedo,+55 (13) 94588-2878,1981-01-29,48364783670,14168449,SP,Rua Francisco Costa,Parque das Aroeiras,Sertãozinho,
+0001273,Caroline Santos,+55 (67) 96502-9697,2001-09-08,05905206872,79003105,MS,Rua Caetano Rosa,Vila Antônio Vendas,Campo Grande,
+0001274,Ana Carolina das Neves,+55 (87) 94168-6915,1975-02-23,68694034220,52171290,PE,Rua da Jaqueira,Dois Irmãos,Recife,Apto 61
+0001275,Manuela Costela,+55 (79) 4959-2384,1957-11-05,03599008361,49503574,SE,Rua Olavio Eduardo Barbosa,Anízio Amancio de Oliveira,Itabaiana,
+0001276,Asafe Nogueira,+55 (91) 3775-0014,1969-04-27,01585181609,66610245,PA,Passagem São João,Curió-Utinga,Belém,
+0001277,Antônio Andrade,+55 (66) 91008-6102,1992-08-15,51839026316,78885970,MT,"Rua Dionizio Cerqueira, 259 Lote N",Centro,Feliz Natal,"Bloco B3, Apto 55"
+0001278,Rafaela da Rocha,+55 (63) 95962-8099,2000-10-23,66802923955,77818746,TO,Rua QC 0006,Conjunto Urbanístico,Araguaína,
+0001279,Julia Silveira,+55 (42) 94899-4211,1952-11-30,66090977128,86605278,PR,Rua Guaíra,Jardim Caviúna,Rolândia,Apto 51
+0001280,Zoe da Conceição,+55 (41) 98785-8727,1956-08-25,46560809188,12321160,SP,Rua Eduardo José Diniz,Conjunto Habitacional Marinho,Jacareí,Apto 376
+0001281,Liz Rodrigues,+55 (81) 98689-8464,2003-03-21,06929276030,50875300,PE,Rua Dona Ana Aurora - de 768/769 ao fim,Caçote,Recife,Apto 558
+0001282,Emanuelly Pinto,+55 (32) 91421-7846,1983-03-21,23134577100,26185045,RJ,Rua Dierte Barbosa,Frei Fabiano,Belford Roxo,Casa 58
+0001283,Heloisa Lopes,+55 (32) 90728-9479,1987-09-06,91405537361,21721301,RJ,Rua Barão de Piraquara - até 261 - lado ímpar,Padre Miguel,Rio de Janeiro,
+0001284,Henrique Barros,+55 (22) 4433-4301,1964-12-16,31944638610,23822090,RJ,Rua Tangarás,Santa Cândida,Itaguaí,
+0001285,André Duarte,+55 (27) 96613-3200,1959-01-08,87733820006,39637000,MG,,Distrito,Freire Cardoso (Coronel Murta),Apto 816
+0001286,Vitória Cirino,+55 (24) 91600-2610,1981-08-09,19556296506,27963004,RJ,Rua Pedro Leon da Silva Carvalho,Parque Aeroporto,Macaé,
+0001287,Bento Ribeiro,+55 (94) 97757-2344,2004-07-03,52645663800,66077435,PA,Rua Preto,Terra Firme,Belém,Apto 386
+0001288,Caroline da Rocha,+55 (27) 94552-8164,1993-08-08,05357095795,29182238,ES,Rua Brejetuba,Serramar,Serra,"Bloco B4, Apto 986"
+0001289,Isaac Casa Grande,+55 (15) 4971-3383,1965-05-02,79077952810,05529060,SP,Rua Bonifácio Veronese,Jardim Jaqueline,São Paulo,Apto 295
+0001290,Hadassa Andrade,+55 (24) 5845-5863,2001-10-15,86986451008,25910236,RJ,Rua Cruzeiro do Sul,Vila Citrolândia (Santo Aleixo),Magé,Apto 151
+0001291,Yan Lopes,+55 (18) 90993-4992,1983-03-28,04173274637,17522110,SP,Rua Madre Clélia Merloni,Conjunto Habitacional Monsenhor João Batista Toffoli,Marília,Apto 589
+0001292,Yan Cassiano,+55 (17) 93230-8064,1997-10-31,20994319738,03007040,SP,Rua Santa Rosa,Brás,São Paulo,"Bloco B1, Apto 126"
+0001293,Vitória Araújo,+55 (27) 93586-2311,1980-10-06,57148722314,14708070,SP,Alameda Cabo Frio - até 148/149,Jardim Menino Deus II,Bebedouro,
+0001294,Emanuella Camargo,+55 (32) 99835-1778,1993-08-13,93895865427,25235150,RJ,Rua São Luís,Santo Antônio,Duque de Caxias,Apto 892
+0001295,Caleb Ramos,+55 (38) 3872-6806,1985-09-07,96908130487,36038314,MG,Rua C,Aeroporto,Juiz de Fora,
+0001296,Brayan Moura,+55 (16) 96310-8277,1982-06-07,59281437538,16901400,SP,Rua Alagoas - de 1090/1091 a 1672/1673,Piscina,Andradina,"Bloco C1, Apto 915"
+0001297,Maria Júlia Farias,+55 (15) 95641-7226,1984-09-24,84149944580,12513580,SP,Rua Ana Carolina da Silva Henrique,Residencial Village Santana,Guaratinguetá,
+0001298,Thiago da Rosa,+55 (42) 98554-8627,1974-05-31,24734279764,86042030,PR,Rua Zínia,Ouro Branco,Londrina,Apto 813
+0001299,Srta. Maria Alice Cunha,+55 (27) 98080-7704,2007-01-25,07285768057,33170790,MG,Praça Sem Nome,Duquesa II (São Benedito),Santa Luzia,Casa 52
+0001300,Esther Barbosa,+55 (48) 93937-5532,1955-12-24,13436481653,89707018,SC,Rua Engenheiro Ahrons,Nazaré,Concórdia,Apto 569
+0001301,João Guilherme da Paz,+55 (89) 99286-0592,2001-12-05,30817489681,65091212,MA,Rua São Sebastião (Vl Tiradentes),Vila Maranhão,São Luís,Apto 134
+0001302,Ana Fonseca,+55 (75) 4982-8065,1975-11-01,59840305867,45993159,BA,Travessa do Interior,Tancredo Neves,Teixeira de Freitas,"Bloco C4, Apto 937"
+0001303,Ana Carolina da Rocha,+55 (62) 94958-0830,1990-08-21,25537687887,72885460,GO,Quadra 1,Mansões Recreio Mossoró,Cidade Ocidental,Casa 54
+0001304,Lucas Azevedo,+55 (35) 90538-6440,2007-06-29,36606329450,32600044,MG,Rua Belo Horizonte,Centro,Betim,"Bloco C1, Apto 54"
+0001305,Théo Vieira,+55 (46) 93800-7874,1984-03-03,18123108460,84021230,PR,Rua Diamante,Neves,Ponta Grossa,Apto 443
+0001306,Clara Ferreira,+55 (86) 99491-8873,1990-12-19,06805419506,64090455,PI,Quadra 05 (Frei Damião),Gurupi,Teresina,Apto 645
+0001307,Srta. Gabriela Casa Grande,+55 (37) 91494-4446,1997-05-26,36254825767,33933582,MG,Beco das Gameleiras,Urca (Justinópolis),Ribeirão das Neves,
+0001308,Mateus Pires,+55 (11) 92922-2432,1958-05-09,72413002464,87033220,PR,Rua Marechal Mascarenhas de Moraes,Jardim Alvorada,Maringá,
+0001309,Srta. Bianca Ribeiro,+55 (17) 97400-6991,1954-12-05,18079683751,02250210,SP,Rua Nossa Senhora da Luz,Vila Gustavo,São Paulo,Apto 235
+0001310,Liam Novais,+55 (44) 5057-7953,2004-05-13,88341882337,86183796,PR,Rua Gildo Cogo,Jardim José Favaro,Cambé,
+0001311,Srta. Isis Moura,+55 (12) 97847-6187,1957-02-16,01741640849,12902150,SP,Rua Monsenhor Farhat,Jardim América,Bragança Paulista,Casa 14
