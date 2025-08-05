@@ -60,9 +60,11 @@ Projeto em Python para gerar dados simulados de leads brasileiros, incluindo CPF
   ]
 
 ## Exemplo de saída em csv
-id,nome,telefone,nascimento,cpf,cep,uf,logradouro,bairro,cidade,complemento
-0001056,Vicente Santos,+55 (45) 90808-2056,1974-04-19,73648034596,81010270,PR,Rua Djalma Ferreira Maciel - de 241/242 ao fim,Lindóia,Curitiba,"Bloco C1, Apto 641"
-0001057,Dom da Rosa,+55 (22) 97584-7800,1968-11-02,81346053464,25615500,RJ,Vila Francisco Verrissimo da Silva,Quissama,Petrópolis,"Bloco C2, Apto 880"
+| id       | nome           | telefone           | nascimento  | cpf         | cep       | uf | logradouro                                             | bairro    | cidade         | complemento           |
+|----------|----------------|--------------------|-------------|-------------|-----------|----|--------------------------------------------------------|-----------|----------------|------------------------|
+| 0001056  | Vicente Santos | +55 (45) 90808-2056| 1974-04-19  | 73648034596 | 81010270  | PR | Rua Djalma Ferreira Maciel - de 241/242 ao fim         | Lindóia   | Curitiba       | Bloco C1, Apto 641     |
+| 0001057  | Dom da Rosa    | +55 (22) 97584-7800| 1968-11-02  | 81346053464 | 25615500  | RJ | Vila Francisco Verrissimo da Silva                     | Quissama  | Petrópolis     | Bloco C2, Apto 880     |
+
 
 ## Como usar
 Para usar basta ir no bloco superior em configurações de uso e configurar esses dois parâmetros e rodar do código
